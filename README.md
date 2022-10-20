@@ -23,6 +23,14 @@
 <strong>	5.</strong> E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS<br>
 </p>
 
+<h2>Funções e Procedimentos</h2>
+<>
+<strong>     1.</strong>adicionarRegistro: adiciona um registro de vacinação ao objeto RelacaoVacinados.<br>
+<strong>     2.</strong>totalVacinadosAcimaDe: calcula o número de pessoas vacinadas com as duas primeiras doses acima de determinada idade.<br>
+<strong>     3.</strong>listarPessoasQueNaoTomaram2aDose: retorna a relação de pessoas que tomaram a primeira, mas não a segunda dose.<br>
+<strong>     4.</strong>totalDePessoasQueNaoTomaram2aDose: retorna o número de pessoas que tomaram a primeira, mas não a segunda dose.<br>
+<strong>     5.</strong>totalPessoasVacinadasQueTomaram2aDose: retorna o número de pessoas que tomaram a primeira e segunda doses.<br>
+
 ----
 
 <h2> 📚 Paradigma de Programação Orientado a Objetos (POO) </h2>
