@@ -16,7 +16,7 @@
 <h2> 👣 Passo-a-Passo</h2>
 
 <p>
-<strong>	1.</strong> ABSTRAIR o DOMÍNIO Vacinação COVIDD-19 e MODELAR seus ATRIBUTOS E MÉTODOS <br>
+<strong>	1.</strong> ABSTRAIR o DOMÍNIO Vacinação COVID-19 e MODELAR seus ATRIBUTOS E MÉTODOS <br>
 <strong>	2.</strong> Criar as CLASSES: Vacina, Pessoa (abstrata), PessoaProdutiva, Idoso, TrabalhadorSaude, RegistroVacina e RelacaoVacinados, e relaciona-las <br>
 <strong>	3.</strong> As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS <br> 
 <strong>	4.</strong> Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO <br>
@@ -24,7 +24,7 @@
 </p>
 
 <h2>Funções e Procedimentos</h2>
-<>
+
 <strong>     1.</strong>adicionarRegistro: adiciona um registro de vacinação ao objeto RelacaoVacinados.<br>
 <strong>     2.</strong>totalVacinadosAcimaDe: calcula o número de pessoas vacinadas com as duas primeiras doses acima de determinada idade.<br>
 <strong>     3.</strong>listarPessoasQueNaoTomaram2aDose: retorna a relação de pessoas que tomaram a primeira, mas não a segunda dose.<br>
